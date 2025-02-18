@@ -17,7 +17,7 @@ export const ThxLayout = () => {
         </Typography.Text>
       </div>
       <div className={appSt.bottomBtn}>
-        <ButtonMobile href="https://alfa.me/ght" block view="secondary">
+        <ButtonMobile href="alfabank://investments/open_brokerage_account" block view="secondary">
           Буду ждать
         </ButtonMobile>
       </div>
